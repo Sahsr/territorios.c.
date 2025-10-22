@@ -1,8 +1,8 @@
 # 🗺️ Cadastro de Territórios
 
 **Autora:** Samara Rennys Souza Paiva  
-**Curso:** Engenharia de Software - Stácio  
-**Disciplina:** Fundamentos de Programação em C  
+**Curso:** Engenharia de Software - Estácio  
+**Disciplina:** ESTRUTURA DE DADOS
 
 ---
 
