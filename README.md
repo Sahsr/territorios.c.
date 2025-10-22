@@ -1,35 +1,38 @@
-# te# 🗺️ Cadastro de Territórios
+# 🗺️ Cadastro de Territórios
 
-Projeto desenvolvido por **Samara Rennys Souza Paiva** 💻  
-Disciplina: **Fundamentos de Programação em C**
+**Autora:** Samara Rennys Souza Paiva  
+**Curso:** Engenharia de Software - Stácio  
+**Disciplina:** Fundamentos de Programação em C  
 
 ---
 
-## 📖 Descrição
-Este projeto é um sistema simples em linguagem C que cadastra e exibe informações de **5 territórios**, utilizando **structs**.
+## 📖 Descrição do Projeto
+Sistema simples desenvolvido em **C** que permite cadastrar e exibir informações de **5 territórios**, utilizando **structs** para organizar os dados.  
+O programa armazena e mostra:
 
-O objetivo é praticar o uso de **estruturas**, **vetores** e **entrada de dados** no C.
+- Nome do território 🌍  
+- Cor do exército 🛡️  
+- Quantidade de tropas ⚔️  
+
+O objetivo é praticar **estruturas de dados**, **vetores** e **entrada/saída de informações**.
 
 ---
 
 ## ⚙️ Funcionalidades
 - Cadastro de até 5 territórios  
-- Armazena:
-  - Nome do território  
-  - Cor do exército  
-  - Quantidade de tropas  
-- Exibe todos os territórios cadastrados na tela
+- Armazenamento das informações em structs  
+- Exibição organizada de todos os territórios cadastrados  
 
 ---
 
-## 🧠 Tecnologias Utilizadas
-- Linguagem **C**
-- Compilador: **GCC (GNU Compiler Collection)**
+## 💻 Tecnologias utilizadas
+- Linguagem **C**  
+- Bibliotecas: `stdio.h`, `string.h`  
+- Compilador: **GCC**  
 
 ---
 
 ## ▶️ Como executar
 1. Compile o programa:
-   ```bash
-   gcc territorios.c -o territorios
-rritorios.c.
+```bash
+gcc territorios.c -o territorios
